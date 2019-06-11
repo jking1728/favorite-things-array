@@ -1,0 +1,10 @@
+.form-control {
+  width: 50%;
+}
+#favorite-color {
+  width: 10%;
+}
+
+#output {
+  display: none;
+}
